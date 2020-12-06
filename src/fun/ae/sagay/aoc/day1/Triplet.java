@@ -1,4 +1,4 @@
-package Day1;
+package fun.ae.sagay.aoc.day1;
 
 import java.io.*;
 import java.util.ArrayList;

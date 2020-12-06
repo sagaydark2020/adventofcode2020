@@ -1,4 +1,4 @@
-package com.sagay.aoc2020.day2;
+package fun.ae.sagay.aoc.day2;
 
 import java.io.BufferedReader;
 import java.io.File;
